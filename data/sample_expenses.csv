@@ -1,0 +1,13 @@
+id,description,amount,category,date
+1,Monthly rent share,650.00,Housing,2026-09-05
+2,Groceries,182.40,Food,2026-09-12
+3,Bus pass,120.00,Transport,2026-09-15
+4,Programming course,89.90,Education,2026-09-20
+5,Monthly rent share,650.00,Housing,2026-10-05
+6,"Lunch with friends, downtown",47.50,Food,2026-10-09
+7,Cinema tickets,56.00,Leisure,2026-10-18
+8,Pharmacy,38.75,Health,2026-10-22
+9,Bus pass,120.00,Transport,2026-10-25
+10,Monthly rent share,650.00,Housing,2026-11-05
+11,Groceries,205.30,Food,2026-11-07
+12,Streaming subscription,29.90,Leisure,2026-11-08
